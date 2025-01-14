@@ -1,1 +1,0 @@
-a:2:{i:1;a:2:{s:4:"nama";s:5:"Fiqri";s:7:"jabatan";s:7:"Manajer";}i:2;a:2:{s:4:"nama";s:5:"Daris";s:7:"jabatan";s:7:"Manajer";}}
